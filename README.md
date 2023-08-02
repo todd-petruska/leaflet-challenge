@@ -15,4 +15,4 @@ The code creates a visualization for the earthquake dataset from the USGS GeoJSO
 
 Resources:  Resources and code used for this project includes Instructor provided starter code, Office hours, Study Group, course materials, geeksforgeeks, D3js.org documentation, StackOverflow, Leaflet documentation, and GitHub.
 
-Source: http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php![image](https://github.com/todd-petruska/leaflet-challenge/assets/128247739/0fa84159-a16e-4205-ab4e-7887a2806e4d)
+Source: http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
