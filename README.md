@@ -11,8 +11,8 @@ Folder contains the following files:
 * js folder:
 * logic.js
   
-The code creates a visualization for the earthquake dataset from the USGS GeoJSON URL, which provides data for the past seven days. Leaflet is used to create a map that plots all of the earthquakes from the dataset based on their longitude and latitude.  The index.js includes code to import the TileLayer, connect to the GeoJSON API using D3, and displays earthquake magnitudes with a legend showing depth.  The earthquake's marker color and size is based on the earthquake's magnitude (larger marker) and depth (darker color).  The code includes popups, which provide additional details for each earthquake.  A legend is included and the specific parameter for the legend is found in the css file.   
+The code creates a visualization for the earthquake dataset from the United State Geological Survey (USGS) GeoJSON URL, which provides data for the past seven days. Leaflet is used to create a map that plots all of the earthquakes from the dataset based on their longitude and latitude.  The index.js includes code to import the TileLayer, connect to the GeoJSON API using D3, and displays earthquake magnitudes with a legend showing depth.  The earthquake's marker color and size is based on the earthquake's magnitude (larger marker) and depth (darker color).  The code includes popups, which provide additional details for each earthquake.  A legend is included and the specific parameter for the legend is found in the css file. Download files to a folder on your desktop, right click the html file, then open with google chrome.
 
 Resources:  Resources and code used for this project includes Instructor provided starter code, Office hours, Study Group, course materials, geeksforgeeks, D3js.org documentation, StackOverflow, Leaflet documentation, and GitHub.
 
-Source:https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+Source: United State Geological Survey (USGS)
